@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "silent-salad-433a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7e46445e-a815-4098-9e2d-2206b0781254",
+      "database_name": "silent-salad-433a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
